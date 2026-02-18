@@ -1,4 +1,8 @@
-python-telegram-bot
-flask
+fastapi
+uvicorn
+python-telegram-bot[job-queue]
+pandas
+matplotlib
 requests
+httpx
 python-dotenv
